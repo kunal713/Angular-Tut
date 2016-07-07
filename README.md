@@ -1,4 +1,4 @@
 # Angular-Tut
-#
-# Simple web-pae created using angular.js
-# Tee-hee
+
+Simple web-page created using angular.js
+Tee-hee
